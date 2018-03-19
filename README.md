@@ -1,3 +1,6 @@
+# Sneakers4Lumberjacks
+ sneakers leasing site with geolocation
+
 Prerequisites
 -------------
 
